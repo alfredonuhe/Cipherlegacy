@@ -1,3 +1,3 @@
 # Cipherlegacy
 
-Landing page with particle effect when clicked.
+Landing page with particle effect
