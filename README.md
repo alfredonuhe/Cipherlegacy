@@ -1,3 +1,3 @@
 # Cipherlegacy
 
-Landing page for cipherlegacy.com, using a particle effect by Vincent Garreau , in github.com/VincentGarreau/particles.js
+Landing page for https:/www.cipherlegacy.com, using a particle effect by Vincent Garreau , in https://github.com/VincentGarreau/particles.js
